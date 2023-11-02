@@ -25,7 +25,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gg3ry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gg3ry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="186" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gg3ry&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
