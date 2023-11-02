@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/gg3ry/gg3ry/output/snake.svg" alt="Snake animation" />
-
-###
