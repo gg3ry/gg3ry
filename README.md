@@ -25,6 +25,8 @@
 
 ###
 
-<a href="https://discord.com/users/482134204042313748"><img src="https://lanyard.cnrad.dev/api/482134204042313748?theme=dark" /></a>
+<a href="https://discord.com/users/482134204042313748">
+    <img src="https://lanyard.cnrad.dev/api/482134204042313748?bg=e80c0c" align="right">
+</a>
 
 ###
